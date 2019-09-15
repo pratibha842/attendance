@@ -1,0 +1,202 @@
+<resources>
+
+    <string name="app_name">Android</string>
+    <string name="login_email">E-mail</string>
+    <string name="login_pass">Password</string>
+    <string name="login">Already have an account? Sign in here</string>
+    <string name="registration">Not Registered? Sign up here</string>
+    <string name="btn_takeattendance">Take Attendance</string>
+    <string name="btn_showattendance">Show Attendance</string>
+    <string name="table_header">ATTENDANCE</string>
+    <string name="table_date">DATE</string>
+    <string name="table_time">TIME</string>
+    <string name="table_topic">TOPIC</string>
+    <string name="date_hint">DD/MM/YY</string>
+    <string name="time_hint">time</string>
+    <string name="topic_hint">topic name</string>
+    <string name="name">Name</string>
+    <string name="attendance">Attendance</string>
+    <string name="col1">Roll No.</string>
+    <string name="col2">Ref No.</string>
+
+    <string name="rol1">1</string>
+    <string name="ref1"></string>
+    <string name="name1">AMBEKAR PRATHAMESH PRAKASH PRIYANKA</string>
+
+    <string name="rol2">2</string>
+    <string name="ref2"></string>
+    <string name="name2">ANSARI ARIF SHAMSHUDDIN TAHIRA KHATOON</string>
+
+    <string name="rol3">3</string>
+    <string name="ref3"></string>
+    <string name="name3">CHAUHAN SUJEET KUMAR AVADHESH SHOBHA</string>
+
+    <string name="rol4">4</string>
+    <string name="ref4"></string>
+    <string name="name4">CHOUDHARY SURAJ RADHESHYAM MEERA</string>
+
+    <string name="rol5">5</string>
+    <string name="ref5"></string>
+    <string name="name5">KASLE SIMRAN GOVIND BHAVNA</string>
+
+    <string name="rol6">6</string>
+    <string name="ref6"></string>
+    <string name="name6">KHAN FARHEEN MOHD FAZAL MUMTAZ</string>
+
+    <string name="rol7">7</string>
+    <string name="ref7"></string>
+    <string name="name7">KHAN MOHD AYUB AZHAR ALI NAZAM KHATOON</string>
+
+    <string name="rol8">8</string>
+    <string name="ref8"></string>
+    <string name="name8">KHAN ABDUL MALIK ARIF MAHESARAJAHA</string>
+
+    <string name="rol9">9</string>
+    <string name="ref9"></string>
+    <string name="name9">KHAN HANIFA MAHABOOB ISHRAT SHAHEEN</string>
+
+    <string name="rol10">10</string>
+    <string name="ref10"></string>
+    <string name="name10">KHAN AZHAR MOHD IJAJ AFSANA BEGUM</string>
+
+    <string name="rol11">11</string>
+    <string name="ref11"></string>
+    <string name="name11">KHAN ABDULLAH ARIF MEHSATJAHAN</string>
+
+    <string name="rol12">12</string>
+    <string name="ref12"></string>
+    <string name="name12">PANDIT RAJESHKUMAR RAJU PEMIYA DEVI</string>
+
+    <string name="rol13">13</string>
+    <string name="ref13"></string>
+    <string name="name13">PASI ANUPAM BARKHULAL SHOBHADEVI</string>
+
+    <string name="rol14">14</string>
+    <string name="ref14"></string>
+    <string name="name14">PATIL ROHINEE HARI SANGEETA</string>
+
+    <string name="rol15">15</string>
+    <string name="ref15"></string>
+    <string name="name15">PILLAI GOKUL PRASAD SIVAPRASAD SHYLAJA</string>
+
+    <string name="rol16">16</string>
+    <string name="ref16"></string>
+    <string name="name16">RAI PRATIBHA SHIVKUMAR MANBHADEVI</string>
+
+    <string name="rol17">17</string>
+    <string name="ref17"></string>
+    <string name="name17">RATHOUR NEERAJ BHARAT JYOTI</string>
+
+    <string name="rol18">18</string>
+    <string name="ref18"></string>
+    <string name="name18">SHAIKH ARBAZ MOH. SUFIYAN BADRUNISA</string>
+
+    <string name="rol19">19</string>
+    <string name="ref19"></string>
+    <string name="name19">SHAIKH HAJRA KALIMUDDI HAKKANI</string>
+
+    <string name="rol20">20</string>
+    <string name="ref20"></string>
+    <string name="name20">SHAIKH ALFIYA ZAHID HUSAIN RUKHSANA</string>
+
+    <string name="rol21">21</string>
+    <string name="ref21"></string>
+    <string name="name21">SHARMA AKASH TEJPRATAP SHAKUNTALA</string>
+
+    <string name="rol22">22</string>
+    <string name="ref22"></string>
+    <string name="name22">SHUKLA SWETA SURENDRA SUDHA</string>
+
+    <string name="rol23">23</string>
+    <string name="ref23"></string>
+    <string name="name23">SINGH VAIBHAV DINESH ANURADHA</string>
+
+    <string name="rol24">24</string>
+    <string name="ref24"></string>
+    <string name="name24">SINGH ROHAN MAHENDRANATH ANJU</string>
+
+    <string name="rol25">25</string>
+    <string name="ref25"></string>
+    <string name="name25">UPADHYAY ARVIND KUMAR PHOOLAN VEDWANTI</string>
+
+    <string name="rol26">26</string>
+    <string name="ref26"></string>
+    <string name="name26">DARYL VARGHESE BEENA</string>
+
+    <string name="rol27">27</string>
+    <string name="ref27"></string>
+    <string name="name27">YADAV SHARAD JAGADISH MEENADEVI</string>
+
+    <string name="rol28">28</string>
+    <string name="ref28"></string>
+    <string name="name28">CHAVAN PRASAD PRABHAKAR VAISHNAVI</string>
+
+    <string name="rol29">29</string>
+    <string name="ref29"></string>
+    <string name="name29">YADAV ABHISHEK VIDHINATH REETA</string>
+
+    <string name="rol30">30</string>
+    <string name="ref30"></string>
+    <string name="name30">CHAUHAN VICKY DHARMRAJ SHYAMADEVI</string>
+
+    <string name="rol31">31</string>
+    <string name="ref31"></string>
+    <string name="name31">MISHRA SAURAV MANOJ SADHANABEN</string>
+
+    <string name="rol32">32</string>
+    <string name="ref32"></string>
+    <string name="name32">CHOUDHAY VISHAL DHANBHADUR NAINA</string>
+
+    <string name="rol33">33</string>
+    <string name="ref33"></string>
+    <string name="name33">VISKWAKARMA SHIVAM MAHENDRA RAJKUMARI</string>
+
+    <string name="rol34">34</string>
+    <string name="ref34"></string>
+    <string name="name34">RUPA ARIYAN BANUMATHI</string>
+
+    <string name="rol35">35</string>
+    <string name="ref35"></string>
+    <string name="name35">ALVI MARIYA MOHD FAHIM SHAMA PARAVEEN</string>
+
+    <string name="rol36">36</string>
+    <string name="ref36"></string>
+    <string name="name36">BHANUSHALI MITESH DAMJI SHANIBEN</string>
+
+    <string name="rol37">37</string>
+    <string name="ref37"></string>
+    <string name="name37">ANSARI SARFARAZ AHMED NIYAL AHMAD</string>
+
+    <string name="rol38">38</string>
+    <string name="ref38"></string>
+    <string name="name38">PRAJAPATI KUSHBOO DINESH GEETA</string>
+
+    <string name="rol39">39</string>
+    <string name="ref39"></string>
+    <string name="name39">SHARMA BITTU MAHENDRA SUNITA</string>
+
+    <string name="rol40">40</string>
+    <string name="ref40"></string>
+    <string name="name40">PANDE BIPIN BHAGAWATI USHA</string>
+
+    <string name="rol41">41</string>
+    <string name="ref41"></string>
+    <string name="name41">CHAUDHARI FARHANA UBAIDULLA RUKHSANA</string>
+
+    <string name="rol42">42</string>
+    <string name="ref42"></string>
+    <string name="name42">LOKHANDE AISHWARIYA SANTOSH LAILA</string>
+
+    <string name="rol43">43</string>
+    <string name="ref43"></string>
+    <string name="name43">ANSARI ARBAZ ABDUL HUSNEARA</string>
+
+    <string name="rol44">44</string>
+    <string name="ref44"></string>
+    <string name="name44">KHAN MOHD TARIQUE WAHID ALI AMINA</string>
+
+    <string name="rol45">45</string>
+    <string name="ref45"></string>
+    <string name="name45">YADAV PRADEEP KUMAR AMARNATH URMILA</string>
+
+</resources>
